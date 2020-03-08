@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://github.com/halo-dev" target="_blank">Halo</a></h1>
 
-> Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学多一个选择。<kaixin>
+> Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学多一个选择
 
 <p align="center">
 <a href="#"><img alt="JDK" src="https://img.shields.io/badge/JDK-1.8-yellow.svg?style=flat-square"/></a>
